@@ -1,6 +1,6 @@
 Game Concept: 
 
-Tic Tac Tones is a twist on Tic Tac Toe and Musical Chairs ! 
+Tic Tac Tones is a twist on Tic Tac Toe and Musical Chairs. 
 
 Our goal :  Combine two simple and universal games played across generations.
 
