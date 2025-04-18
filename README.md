@@ -20,7 +20,7 @@ Both are classic childhood games that evoke a sense of **nostalgia**—easy to u
 
 ## 🧩 How to Play
 
-<img src=https://github.com/user-attachments/assets/ba38f7a5-3b44-489b-9504-bd2e3f744153 width="300"/>
+<img src=https://github.com/user-attachments/assets/ba38f7a5-3b44-489b-9504-bd2e3f744153 width="300"/></br>
 
 - Players compete for spots on a **3x3 grid**, placing **X** and **O** just like in Tic Tac Toe.
 - Instead of taking turns, players must **select pieces moving in a circular motion** around the board.
