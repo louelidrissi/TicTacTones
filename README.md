@@ -1,7 +1,8 @@
-- Game Concept:
 
 
 <img src=https://github.com/user-attachments/assets/ce154efe-24b9-4cf0-ba5a-f68f9e56eeae width="300"/>
+
+- Game Concept:
 
 Tic Tac Tones is a twist on Tic Tac Toe and Musical Chairs. The game combines two simple and universal games played across generations. Tic Tac Tones is an easy to learn game that captures the strategy of Tic Tac Toe with the timing and movement of Musical Chairs to bring people together in a friendly competition.
 
