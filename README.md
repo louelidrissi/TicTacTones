@@ -1,4 +1,7 @@
-Tic Tac Tones is a twist on Tic Tac Toe and Musical Chairs !
+
+<strong>Tic Tac Tones is a twist on Tic Tac Toe and Musical Chairs !</strong>
+
+
 
 <img src=https://github.com/user-attachments/assets/ce154efe-24b9-4cf0-ba5a-f68f9e56eeae width="300"/>
 
