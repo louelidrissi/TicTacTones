@@ -3,8 +3,7 @@
 
 
 
-<img src=https://github.com/user-attachments/assets/ce154efe-24b9-4cf0-ba5a-f68f9e56eeae width="300"/>
-<br>
+<img src=https://github.com/user-attachments/assets/ce154efe-24b9-4cf0-ba5a-f68f9e56eeae width="300"/><br>
 
 
 - Game Concept:
