@@ -10,4 +10,6 @@ Both games are classic childhood games that evoke a sense of nostalgia.
 
 Players are competing for spots in a grid like structure. Placing X and O on the board. To fill the grid, players have to select pieces moving around the grid in a circular motion. Players have 2 seconds after the music stops to secure their position on the grid. Once a spot on the grid is filled by the faster player, the associated pieces will disappear. The game continues until a player wins or the match ends in a draw.
 
-![Alt Text]((https://github.com/user-attachments/assets/ce154efe-24b9-4cf0-ba5a-f68f9e56eeae)
+
+<img src=https://github.com/user-attachments/assets/ce154efe-24b9-4cf0-ba5a-f68f9e56eeae width="300"/>
+
