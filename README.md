@@ -1,24 +1,24 @@
-# 🎵🪑 Tic Tac Tones
+# Tic Tac Tones
 
 **Tic Tac Tones** is a twist on two timeless games: **Tic Tac Toe** and **Musical Chairs**!
 
 ---
 
-## 🕹️ Game Concept
+## Game Concept
 
 Tic Tac Tones combines two simple and universal games played across generations. It captures the **strategy** of Tic Tac Toe with the **timing and movement** of Musical Chairs to bring people together in a fun and friendly competition.
 
 ---
 
-## 🎯 Why Tic Tac Toe and Musical Chairs?
+## Why Tic Tac Toe and Musical Chairs?
 
-Both are classic childhood games that evoke a sense of **nostalgia**—easy to understand, yet engaging enough for all ages.
+Both are classic childhood games that evoke a sense of **nostalgia** that is engaging enough for all ages.
 
 ---
 
 
 
-## 🧩 How to Play
+##  How to Play
 
 <img src=https://github.com/user-attachments/assets/ba38f7a5-3b44-489b-9504-bd2e3f744153 width="300"/></br>
 
@@ -30,14 +30,10 @@ Both are classic childhood games that evoke a sense of **nostalgia**—easy to u
 
 ---
 
-## 🌀 What Makes It Fun?
+## What Makes It Fun?
 
-- It’s not just about strategy—it’s also about **speed**, **reflexes**, and **timing**.
+- Compete with your friends on your **speed**, **reflexes**, and **timing**.
 - Designed for **spontaneous fun**, **group engagement**, and **nostalgic vibes**.
 - Great for parties, classrooms, or quick matches with friends.
 
-
----
-
-> ✨ Simple to learn. Fun to master.  
 
